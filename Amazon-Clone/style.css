@@ -44,19 +44,13 @@ button{
     margin-right: 170px;
  }
 
- /* .contentBox{
-    height: 100px;
-    width: 100px;
-    color: black;
-    border:2px solid black ;
-    background-color: red;
-    opacity: 0.5;
-    display:inline-block; */
+ 
     
 footer{
     color: black;
     background-color: rgb(245, 225, 3);
     text-align: center;
+    justify-content: end;
 }
 .border{
     border:2px solid transparent;
