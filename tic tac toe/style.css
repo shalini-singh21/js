@@ -1,5 +1,7 @@
 h1 {
-    color:red ;
+    color:black ;
+    font-weight: bolder;
+    text-decoration: red wavy underline overline;
 }
 */{
     margin:0;
@@ -15,6 +17,7 @@ body{
   display: flex;
   align-items: center;
   justify-content: center;
+  
     
 }
 .game{
@@ -74,4 +77,9 @@ body{
 
 .hide{
     display:none;
+}
+
+h1{
+text-align: center;
+text-transform: capitalize;
 }
