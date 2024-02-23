@@ -1,0 +1,15 @@
+.navbar{
+    height:50px;
+    width: 100%;
+    background-color: aquamarine;
+    justify-content: center;
+    justify-content: space-around;
+    display:flex;
+}
+.form{
+    width:500px;
+    height:800px;
+    background-color:pink;
+    text-decoration: dotted;
+   
+}
